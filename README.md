@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilskumar
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning .net,Angular
+- 🌱 Full Stack Developer .net,Angular
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me sk.akhil4u@gmail.com
 
